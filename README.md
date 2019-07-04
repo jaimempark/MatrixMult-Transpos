@@ -2,7 +2,7 @@
 
 A simple matrix multiplication and transposition program using 2D vectors.
 
-Sample output:
+Sample output: (it's formatted in the actual output)
 
 First matrix :
 
@@ -48,9 +48,15 @@ Transpose of transposed matrix:
   31   32   33   34   35   36
 
 Multiplication of first and a second, identical matrix:
+
  441  462  483  504  525  546
+ 
 1017 1074 1131 1188 1245 1302
+
 1593 1686 1779 1872 1965 2058
+
 2169 2298 2427 2556 2685 2814
+
 2745 2910 3075 3240 3405 3570
+
 3321 3522 3723 3924 4125 4326
